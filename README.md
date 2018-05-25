@@ -16,5 +16,9 @@ This repo is only the backend portion of the project which was worked on by Dyla
     * Automatically restarts when any of your files change
     
 ## Technologies Used
-Pley is a full-stack, full responsive, web-application using the create-react-app package, Node, Mongo, and Express.
+Spaced Rep is a full-stack, full responsive, web-application using the create-react-app package, Node, Mongo, and Express.
 Nginx and Ubuntu 16.4 were used for this deployment at Digital Ocean.
+
+
+### Api
+The API for this project is very straightforward. Once there is a user logged in the only endpoint accessed is /api/question which will return the next available question for that user with a GET request, and a POST request will answer the current question and move on to the next question available.
