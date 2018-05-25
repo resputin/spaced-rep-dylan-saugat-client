@@ -14,7 +14,7 @@ This repo is only the backend portion of the project which was worked on by Dyla
 * Run the development task: `npm start`
     * Starts a server running at http://localhost:8080
     * Automatically restarts when any of your files change
-
-## Database
-
-This application is configured to connect to a MongoDB database using Mongoose.
+    
+## Technologies Used
+Pley is a full-stack, full responsive, web-application using the create-react-app package, Node, Mongo, and Express.
+Nginx and Ubuntu 16.4 were used for this deployment at Digital Ocean.
