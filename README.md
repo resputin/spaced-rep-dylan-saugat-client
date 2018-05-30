@@ -15,6 +15,9 @@ This repo is only the backend portion of the project which was worked on by Dyla
     * Starts a server running at http://localhost:8080
     * Automatically restarts when any of your files change
     
+## Screenshots
+![Alt text](https://github.com/resputin/spaced-rep-dylan-saugat-client/blob/master/public/spaced-trans.png?raw=true)
+    
 ## Technologies Used
 Spaced Rep is a full-stack, full responsive, web-application using the create-react-app package, Node, Mongo, and Express.
 Nginx and Ubuntu 16.4 were used for this deployment at Digital Ocean.
